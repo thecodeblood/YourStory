@@ -1,0 +1,16 @@
+Site_Name,State,Visitors_2022,Latitude,Longitude,UNESCO_Heritage
+Taj Mahal,Uttar Pradesh,6500000,27.1751,78.0421,True
+Qutub Minar,Delhi,3800000,28.5245,77.1855,True
+Red Fort,Delhi,4200000,28.6562,77.241,True
+Ajanta Caves,Maharashtra,1200000,20.5519,75.7,True
+Ellora Caves,Maharashtra,1500000,20.0258,75.178,True
+Khajuraho Temples,Madhya Pradesh,950000,24.8318,79.9199,True
+Hampi,Karnataka,1800000,15.335,76.46,True
+Mahabalipuram,Tamil Nadu,2200000,12.6269,80.1928,True
+Konark Sun Temple,Odisha,1100000,19.8876,86.0947,True
+Fatehpur Sikri,Uttar Pradesh,2800000,27.094,77.6701,True
+Sanchi Stupa,Madhya Pradesh,750000,23.4795,77.7388,False
+Meenakshi Temple,Tamil Nadu,2500000,9.9252,78.1198,False
+Golden Temple,Punjab,3900000,31.62,74.8765,False
+Jaisalmer Fort,Rajasthan,1700000,26.9157,70.9083,False
+Hawa Mahal,Rajasthan,2900000,26.9239,75.8267,False

@@ -1,0 +1,16 @@
+Art_Form,Type,Region,Practitioners_Estimate,Govt_Recognition,Tourism_Potential,Tourism_Potential_Score,Recognition_Score,Cultural_Significance
+Bharatanatyam,Dance,Tamil Nadu,15000,National,High,3,2,2.5
+Kathakali,Dance,Kerala,8000,National,High,3,2,2.5
+Kathak,Dance,North India,20000,National,High,3,2,2.5
+Odissi,Dance,Odisha,12000,National,Medium,2,2,2.0
+Kuchipudi,Dance,Andhra Pradesh,9000,National,Medium,2,2,2.0
+Manipuri,Dance,Manipur,5000,National,Medium,2,2,2.0
+Mohiniyattam,Dance,Kerala,4000,National,Medium,2,2,2.0
+Sattriya,Dance,Assam,3000,National,Low,1,2,1.5
+Madhubani Painting,Painting,Bihar,7000,State,High,3,1,2.0
+Warli Painting,Painting,Maharashtra,6000,State,Medium,2,1,1.5
+Pattachitra,Painting,Odisha,5000,State,Medium,2,1,1.5
+Tanjore Painting,Painting,Tamil Nadu,8000,State,High,3,1,2.0
+Kalamkari,Textile Art,Andhra Pradesh,10000,National,High,3,2,2.5
+Phulkari,Embroidery,Punjab,12000,State,Medium,2,1,1.5
+Pashmina,Textile,Kashmir,15000,National,High,3,2,2.5
